@@ -1,6 +1,4 @@
-ARG PY_VERSION=3.11
-
-FROM python:$PY_VERSION as base
+FROM ghcr.io/lavlabinfrastructure/lavlab-omeropy-container AS base
 # create non-root user (primarily for devcontainer)
 RUN groupadd --gid 1000 vscode \
     && useradd --uid 1000 --gid 1000 -m vscode
