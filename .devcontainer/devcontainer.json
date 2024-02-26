@@ -14,8 +14,7 @@
                 "python.linting.pylintEnabled": true,
                 "python.formatting.provider": "black",
                 "editor.formatOnSave": true,
-                "remote.SSH.showLoginTerminal": true,
-                "remote.SSH.useLocalServer": false #verify
+                "github.gitProtocol": "ssh"
                 
             },
             "extensions": [
