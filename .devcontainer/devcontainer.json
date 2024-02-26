@@ -13,7 +13,9 @@
                 "python.linting.enabled": true,
                 "python.linting.pylintEnabled": true,
                 "python.formatting.provider": "black",
-                "editor.formatOnSave": true
+                "editor.formatOnSave": true,
+                "github.gitProtocol": "ssh"
+                
             },
             "extensions": [
                 "ms-python.python",

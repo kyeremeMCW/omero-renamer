@@ -1,7 +1,7 @@
 # Python Template
 
-[![PyPI - Version](https://img.shields.io/pypi/v/python-template.svg)](https://pypi.org/project/python-template)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/python-template.svg)](https://pypi.org/project/python-template)
+[![PyPI - Version](https://img.shields.io/pypi/v/omero-renamer.svg)](https://pypi.org/project/omero-renamer)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/omero-renamer.svg)](https://pypi.org/project/omero-renamer)
 
 -----
 
@@ -13,9 +13,9 @@
 ## Installation
 
 ```console
-pip install python-template
+pip install omero-renamer
 ```
 
 ## License
 
-`python-template` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+`omero-renamer` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
