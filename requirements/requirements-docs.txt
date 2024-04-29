@@ -266,9 +266,9 @@ mkdocs-minify-plugin==0.8.0 \
     --hash=sha256:5fba1a3f7bd9a2142c9954a6559a57e946587b21f133165ece30ea145c66aee6 \
     --hash=sha256:bc11b78b8120d79e817308e2b11539d790d21445eb63df831e393f76e52e753d
     # via hatch.envs.docs
-mkdocstrings==0.24.0 \
-    --hash=sha256:222b1165be41257b494a9d29b14135d2b7ca43f38161d5b10caae03b87bd4f7e \
-    --hash=sha256:f4908560c10f587326d8f5165d1908817b2e280bbf707607f601c996366a2264
+mkdocstrings==0.25.0 \
+    --hash=sha256:066986b3fb5b9ef2d37c4417255a808f7e63b40ff8f67f6cab8054d903fbc91d \
+    --hash=sha256:df1b63f26675fcde8c1b77e7ea996cd2f93220b148e06455428f676f5dc838f1
     # via hatch.envs.docs
 packaging==23.2 \
     --hash=sha256:048fb0e9405036518eaaf48a55953c750c11e1a1b68e0dd1a9d62ed0c092cfc5 \
